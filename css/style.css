@@ -1,0 +1,42 @@
+.c{
+    background-color: aqua;
+    width: 50%;
+    position: absolute;
+    top: 3%;
+    left: 25%;
+    padding: 2%;
+    backdrop-filter: blur(50px);
+    box-shadow: rgb(0, 102, 255) 35px 30px 20px 0px ;
+    
+}
+.card{
+    background-color: aqua;
+    margin-top: 50px;
+    border: 2px black solid;
+    box-shadow: skyblue 20px 15px 5px 0px;
+}
+.bot{
+    float: right;
+    text-decoration: none;
+
+}
+
+.card-title{
+    padding: 10px;
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: larger;
+    text-decoration: underline;
+}
+input {
+    margin: 7px;
+    background:transparent;
+}
+label{
+    margin: 5px;
+    font-weight: bold;
+}
+button{
+    margin-top: 10px;
+}
+
